@@ -294,14 +294,12 @@ Current implementation supports:
 
 ---
 
-## Author
+### Demo Video 
 
-Shishir Pusalkar
+https://drive.google.com/file/d/1DCIpYfwh39nGkkCYZKiDOFOqq2Mgnk5v/view?usp=sharing
 
-Electronics and Communication Engineering
-SVNIT Surat
 
-Built using the Vicharak Shrike-Lite FPGA platform.
 
+This is the google drive link of the video of working Spell Corrector with its proper flow showing how to generate the bitstream then how to upload the bitstream into the thonny and after that how to run the hid_interface.py script.
 
 
